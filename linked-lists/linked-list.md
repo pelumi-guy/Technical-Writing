@@ -77,11 +77,12 @@ Luckily for us there's also a solution to that, in form of Doubly Linked List!
 <p><img src="./doubly-linked list.gif"/></p>
 
 And it typically looks like this in C Programming:
+
 ```
 struct singly-linked-list
 {
 	int n;
-    struct singly-linked-list *prev;
+	struct singly-linked-list *prev;
 	struct singly-linked-list *next;
 }
 ```
