@@ -79,11 +79,11 @@ Luckily for us there's also a solution to that, in form of Doubly Linked List!
 And it typically looks like this in C Programming:
 
 ```
-struct singly-linked-list
+struct doubly-linked-list
 {
 	int n;
-	struct singly-linked-list *prev;
-	struct singly-linked-list *next;
+	struct doubly-linked-list *prev;
+	struct doubly-linked-list *next;
 }
 ```
 Containing another high precision GPS coordinates pointer to the previous house – ```struct singly-linked-list *prev```.  
