@@ -27,11 +27,10 @@ We know that the houses are numbered orderly so to navigate through this street 
 Perhaps you are delivery guy, trying to deliver a package to no. 4 on Posh Street off Array Avenue. On getting to the gate of the street, all you have to do is count ```3 = 4 - 1``` houses from the first house to get to the house that the package is meant to be delivered to
 
 <p> <img src="./posh-street_nav.jpg"/> </p>
+
 ```
 location = sizeof(element) * (index - start) 
 ```
-
-
 This is exactly the same way array elements are processed in the computer memory. Every array (on a low level) is just a pointer to the first element of the array and to calculate location of any given index, the computer simply subtracts the index of the first element (which is always 0) from the given index and multiplies by the size of a single element in the array. 
 
 <p> <img src="./array.png"/></p> 
