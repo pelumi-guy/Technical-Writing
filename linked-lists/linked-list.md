@@ -1,4 +1,7 @@
 # Linked List Data Structure
+
+<p align="center"><img src="./add-ins/hop-hop.gif" /></p>
+
 According to the [Feymann learning technique](https://fs.blog/feynman-learning-technique/), one of the ways we mask our lack of understanding is by using complicated vocabulary and jargon. The truth is, if you can’t clearly and simply define the words and terms you are using, you don’t really know what you’re talking about.
 
 It follows that if one can't explain a concept in the simplest possible terms that would be easily understood by a sixth-grader, one doesn't truly understand that concept but if one can find a way to do that, one would have also have learned a lot more about the concept on a more intuitive level.
