@@ -38,6 +38,7 @@ This is exactly the same way array elements are processed in the computer memory
 Now imagine yourself as the delivery guy again, in quite an unfortunate situation where you have to deliver a package somewhere in the suburbs where buildings aren't planned and houses are scattered all over with unordered numberings. 
 
 ## Trenches Street
+
 <p>
     <b>Trenches Street off Linked-List Road</b>
     <img src="./trenches-street.jpg"/>
@@ -46,6 +47,8 @@ Now imagine yourself as the delivery guy again, in quite an unfortunate situatio
 A simple means by which an unordered street like the one pictured above could be navigated is by storing a special tag perhaps a high precision GPS coordinate that points to the location of the building with the next number in each building along the street. 
 
 Now as a delivery guy, let's say the package is also addressed to no. 4 Trenches street of Linked-List Road. You'd simply have to go the first house which would hopefully be no. 1 from which you'd get the GPS coordinates for no. 2 and then move on from house no. 2 again to get to house no. 3 and finally to no. 4! 
+
+<p><img src="./trenches-street_nav.jpg"/></p>
 
 Even if we are going to house no. 100, we'd simply have to locate the first house get the coordinates of the next and move on from there to the next and then again to the next until we locate the house we seek.  
 
