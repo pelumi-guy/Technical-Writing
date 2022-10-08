@@ -16,8 +16,7 @@ Arrays and Linked lists are simple data structures used by computer programmers.
 Now try to imagine a street, perhaps in an estate where the buildings are well planned and the house are numbered in order. 
 
 <p align="center"><img src="./add-ins/posh-street.jpg"/></p>
-
-<p align="center">Posh Street off Array Avenue</p>
+<p align="center"><b>Posh Street off Array Avenue</b></p>
 
 The street would look something like the picture shown above.
 
@@ -40,7 +39,7 @@ Now imagine yourself as the delivery guy again, in quite an unfortunate situatio
 
 <p align="center"><img src="./add-ins/trenches-street.jpg"/></p>
 
-<p align="center">Trenches Street off Linked-List Road</p>
+<p align="center"><b>Trenches Street off Linked-List Road</b></p>
 
 A simple means by which an unordered street like the one pictured above could be navigated is by storing a special tag perhaps a high precision GPS coordinate that points to the location of the building with the next number in each building along the street. 
 
