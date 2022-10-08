@@ -85,7 +85,7 @@ struct singly-linked-list
 	struct singly-linked-list *next;
 }
 ```
-Containing another high precision GPS coordinates pointer to the previous house – ```struct singly-linked-list *next```.  
+Containing another high precision GPS coordinates pointer to the previous house – ```struct singly-linked-list *prev```.  
   
 ## What's the whole point of this Linked List stress? 
 
