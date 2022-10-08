@@ -15,8 +15,8 @@ Arrays and Linked lists are simple data structures used by computer programmers.
 ## Posh Street
 Now try to imagine a street, perhaps in an estate where the buildings are well planned and the house are numbered in order. 
 
+**Posh Street off Array Avenue**
  <p align="center">
-    <b>Posh Street off Array Avenue</b>
     <img src="./add-ins/posh-street.jpg"/>
 </p>
 
@@ -39,8 +39,8 @@ Now imagine yourself as the delivery guy again, in quite an unfortunate situatio
 
 ## Trenches Street
 
+**Trenches Street off Linked-List Road**
 <p align="center">
-    <b>Trenches Street off Linked-List Road</b>
     <img src="./add-ins/trenches-street.jpg"/>
 </p>
 
